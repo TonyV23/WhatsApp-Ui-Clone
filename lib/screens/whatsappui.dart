@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:whatsapp_ui_clone/screens/calls.dart';
+import 'package:whatsapp_ui_clone/screens/camera.dart';
+import 'package:whatsapp_ui_clone/screens/chats.dart';
+import 'package:whatsapp_ui_clone/screens/status.dart';
 
 class MyWhatsAppUi extends StatefulWidget {
   const MyWhatsAppUi({super.key});
@@ -20,16 +24,19 @@ class _MyWhatsAppUiState extends State<MyWhatsAppUi> {
           ),
           backgroundColor: Color(0xff075e54),
           bottom: TabBar(
-            labelColor: Colors.white,
-            unselectedLabelColor: Colors.white,
-            indicatorColor: Colors.white,
-            tabs: [
-            Tab(icon: Icon(Icons.camera_alt),),
-            Tab(text: "Chats"),
-            Tab(text: "Status"),
-            Tab(text: "Calls"),
-          ]),
+              labelColor: Colors.white,
+              unselectedLabelColor: Colors.white,
+              indicatorColor: Colors.white,
+              tabs: [
+                Tab(
+                  icon: Icon(Icons.camera_alt),
+                ),
+                Tab(text: "CHATS"),
+                Tab(text: "STATUS"),
+                Tab(text: "CALLS"),
+              ]),
         ),
+        body: TabBarView(children: [Camera(), Chats(), Status(), Calls()]),
       ),
     );
   }
