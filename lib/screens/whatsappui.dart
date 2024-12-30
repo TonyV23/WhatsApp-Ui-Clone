@@ -23,6 +23,10 @@ class _MyWhatsAppUiState extends State<MyWhatsAppUi> {
             style: TextStyle(color: Colors.white),
           ),
           backgroundColor: Color(0xff075e54),
+          actions: [
+            IconButton(onPressed: () {}, icon: Icon(Icons.search, color: Colors.white,)),
+            IconButton(onPressed: () {}, icon: Icon(Icons.more_vert, color: Colors.white))
+          ],
           bottom: TabBar(
               labelColor: Colors.white,
               unselectedLabelColor: Colors.white,
