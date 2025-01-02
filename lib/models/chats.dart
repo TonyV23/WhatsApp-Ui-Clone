@@ -76,4 +76,70 @@ List<ChatModel> dummyData = [
       message: "Me Choha Nehi Ho!",
       time: "23:59",
       image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
+  ChatModel(
+      name: "Black Panther",
+      message: "You are a good man, with a good heart",
+      time: "21:59",
+      image:
+          "https://i.postimg.cc/pL03q7f2/977e57043787edecc39eeb55fee3d040.jpg"),
+  ChatModel(
+      name: "Rocket",
+      message: "Me Choha Nehi Ho!",
+      time: "23:59",
+      image: "https://i.postimg.cc/SNZG5zsh/Rocket-Raccoon-Bradley-Cooper.jpg"),
 ];
